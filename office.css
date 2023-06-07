@@ -1,0 +1,34 @@
+.cabecalho{
+    background-color: rgb(241, 187, 164);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size:xx-large;
+    color: 203, 95, 12, 0.37;
+    color: rgb(223, 73, 19);
+}
+table, th, td {
+    border:1px solid black;
+    color: aliceblue;
+  }
+
+.div1{
+    background-color: rgba(143, 56, 24, 0.69);
+    font-family:Georgia;
+    font-style: normal;
+    font-size: smaller;
+    color: black;
+    
+
+}
+
+body{background-color:cadetblue;}
+
+.cit {
+    background-color: white;
+    color: white;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 20px;}
+
+    *{padding: 23px;;}
+
+    a {text-decoration: none;}
